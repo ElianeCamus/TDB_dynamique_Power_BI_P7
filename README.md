@@ -4,6 +4,9 @@ Création d'un tableau de bord dynamique avec Power BI pour une société de soi
 ## Contexte et objectifs
 
 Consultante chez ESN Data, j'ai été missionnée par l'entreprise Sanitoral pour réaliser une mission de visualisation de données (dataviz).
+
+
+P7_Logo_SANITORIAL.jpg
 La mission consiste à construire un tableau de bord dynamique qui permet de visualiser l'avancement de projets et les coûts, identifier les retards, contrôler les performances, afin que l’équipe puisse mener les actions adéquates. Sanitorial est une société internationale qui fabrique et commercialise des soins bucco-dentaires. Elle opère dans 4 régions : Europe occidentale, Europe de l'Est/Moyen-Orient/Afrique, Amérique du Nord et latine, Asie Pacifique. 
 
 ## Soft Skills
