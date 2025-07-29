@@ -1,7 +1,5 @@
-# TDB_dynamique_Power_BI
-Création d'un tableau de bord dynamique avec Power BI pour une société de soins bucco-dentaire dénommée Sanitorial
-
 # Créez un tableau de bord dynamique avec PowerBI pour visualiser l'avancement de projets
+Création d'un tableau de bord dynamique avec Power BI pour une société de soins bucco-dentaire dénommée Sanitorial
 
 ## Contexte et objectifs
 
